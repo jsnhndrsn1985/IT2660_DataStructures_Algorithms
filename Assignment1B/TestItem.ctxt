@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TestItem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ popUp()
+comment3.params=itemsArray
+comment3.target=double\ avgItems(java.util.ArrayList)
+comment4.params=array
+comment4.target=void\ reverseArray(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ GroceryList()
+comment6.params=
+comment6.target=void\ GroceryListLarge()
+numComments=7

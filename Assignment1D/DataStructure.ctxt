@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataStructure
+comment1.params=
+comment1.target=DataStructure()
+comment2.params=numberOfListings
+comment2.target=DataStructure(int)
+comment3.params=newListing
+comment3.target=void\ addListing(Listing)
+comment4.params=
+comment4.target=void\ showAllListings()
+numComments=5
